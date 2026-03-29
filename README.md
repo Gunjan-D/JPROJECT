@@ -1,10 +1,10 @@
 # Workday Project Coordination Hub
 
-A full-featured **Project Management Dashboard** built to coordinate a real-world Workday ERP implementation for a higher education institution — designed as a portfolio demonstration for the **Workday Project Support Coordinator** role.
+A full-featured **Project Management Dashboard** built to coordinate a real-world Workday ERP implementation for a higher education institution — designed as a portfolio demonstration.
 
 ---
 
-## 🎯 What This Project Demonstrates
+## What This Project Demonstrates
 
 Every feature maps directly to a responsibility in the job description:
 
@@ -19,18 +19,16 @@ Every feature maps directly to a responsibility in the job description:
 
 ---
 
-## 🏗️ Project Scenario
+## Project Scenario
 
 **Client:** State University System  
 **Program:** Workday HCM + Student — Go-Live July 1, 2026  
 **Current Phase:** SIT (System Integration Testing) — Cycle 1  
 **Modules:** Core HR, Payroll, Benefits, Recruiting, Student Admissions, Student Records, Financial Aid, Financials
 
-The application simulates the live project state as of **March 28, 2026**, 95 days before go-live.
-
 ---
 
-## 🚀 Running the App
+## Running the App
 
 ### Prerequisites
 - Node.js 18+ installed
@@ -49,7 +47,7 @@ npm run dev
 
 ---
 
-## 📱 Application Pages
+## Application Pages
 
 ### 1. Dashboard
 - **KPI Cards**: Milestones completed, open risks/issues, SIT pass rate, days to go-live
@@ -92,7 +90,7 @@ npm run dev
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -105,7 +103,7 @@ npm run dev
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src/
@@ -126,7 +124,6 @@ src/
 
 ---
 
-## 💼 About
+##  About
 
-Built by a candidate applying for the **Workday Project Support Coordinator** position at Optima Global Solutions.  
-This project demonstrates hands-on familiarity with Workday implementation lifecycle, higher education project coordination workflows, and the tooling (RAID logs, status reporting, testing coordination) required for this role.
+This project demonstrates hands-on familiarity with Workday implementation lifecycle, higher education project coordination workflows, and the tooling (RAID logs, status reporting, testing coordination).
